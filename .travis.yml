@@ -7,7 +7,9 @@ scala:
 jdk:
   - oraclejdk7
   - openjdk7
-notifications:
-  email:
-    - johannes@spray.io
-    - mathias@spray.io
+
+group: dev
+#notifications:
+#  email:
+#    - johannes@spray.io
+#    - mathias@spray.io
